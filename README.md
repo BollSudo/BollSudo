@@ -4,8 +4,6 @@
 
 🌱 Je suis développeur en 2ème année de BUT Informatique 
 
-🔍 Je recherche actuellement un stage de 3 mois dans le développement informatique du 13/01 au 01/04 2025 
-
 👀 Je suis particulièrement intéressé par le développement d'application et le web. Ce qui me passione, c'est de découvrir les nouvelles technologies et d'explorer le champ des possibles dans les outils de programmation, que cela soit au niveau du développement web, de la POO, des UI/UX ou bien des bases de données. 
 Je vise constamment à m'améliorer et à enrichir mon bagage technique et social à travers divers projets pédagogiques et personnels.
 
