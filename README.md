@@ -88,7 +88,6 @@
     <td><img src="./assets/img/logos/androidstudio.svg" width="40" /></td>
   </tr>
 </table>
->
 
 <h4 align="center">Collaboration & Tools</h4>
 <table align="center">
