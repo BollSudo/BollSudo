@@ -17,7 +17,7 @@ jobs:
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ▁▂▃▅▆▇
+          BLOCKS: ▂▃▅▆▇
           CODE_LANG: yaml
           TIME_RANGE: last_year
           LANG_COUNT: 8

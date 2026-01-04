@@ -1,11 +1,6 @@
 <!-- SOCIALS -->
 <div align="center">
-    <a href="https://www.linkedin.com/in/renaudj/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
-    </a>
-    <a href="https://discordapp.com/users/1391357274357891152" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/>
-    </a>
+    <a href="https://www.linkedin.com/in/renaudj/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/></a><a href="https://discordapp.com/users/1391357274357891152" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/></a>
 </div>
 
 <!-- WHOAMI -->
@@ -137,13 +132,16 @@
 
 <div align="center">
     <img height="150" src="./assets/gif/gojohuh.gif"/>
-    <img src="https://github-readme-stats-gamma-blush-69.vercel.app/api?username=bollsudo&show_icons=true&theme=shadow_blue&custom_title=GitHub Stats&hide=contribs,stars&show=prs_merged&hide_rank=true" alt="Boll's Github Stats">
-
+    <img src="./assets/profile/stats.svg" alt="Boll's Github Stats">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats-gamma-blush-69.vercel.app/api/top-langs?username=bollsudo&layout=compact&langs_count=8&theme=shadow_blue" alt="Boll's Top Languages">
+    <img src="./assets/profile/top-langs.svg" alt="Boll's Top Languages">
     <img height="150" src="./assets/gif/gojohmpf.gif"/>
 </div>
+<br clear="both">
+
+> [!NOTE]
+> The *WakaTime* stats below have been recorded since 29 December 2025
 
 <!--START_SECTION:waka-->
 
