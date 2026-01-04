@@ -30,5 +30,3 @@ jobs:
           COMMIT_MESSAGE: Update waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: github-actions
-          COMMITTER_EMAIL: github-actions@users.noreply.github.com
