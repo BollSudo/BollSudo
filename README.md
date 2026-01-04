@@ -146,6 +146,22 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```yaml
+From: 03 January 2025 - To: 03 January 2026
+
+Total Time: 20 hrs 57 mins
+
+JavaScript       11 hrs 9 mins   ▇▇▇▇▇▇▇▇▇▇▇▇▇▃▁▁▁▁▁▁▁▁▁▁▁   53.23 %
+C#               7 hrs 19 mins   ▇▇▇▇▇▇▇▇▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.98 %
+Scala            1 hr 20 mins    ▇▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.40 %
+Markdown         31 mins         ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.48 %
+PHP              16 mins         ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.33 %
+JSON             6 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.55 %
+Log              3 mins          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.30 %
+.env file        3 mins          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.26 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
