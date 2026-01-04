@@ -1,67 +1,153 @@
-# `whoami`
+<!-- SOCIALS -->
+<div align="center">
+    <a href="https://www.linkedin.com/in/renaudj/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+    </a>
+    <a href="https://discordapp.com/users/1391357274357891152" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/>
+    </a>
+</div>
 
-👋 Hello! 
+<!-- WHOAMI -->
+<h2 align="center">🪐About me</h2>
+<img align="left" height="200" src="./assets/gif/gojohi.gif"/>
+<p align="left">
+👋 Hi ! 
 
-🌱 Je suis développeur en 2ème année de BUT Informatique 
+🌱 I am a third-year CS student 👀 I am particularly interested in application and web development. What excites me is discovering new technologies and exploring the possibilities in programming tools, whether it's web development, OOP, UI/UX, or databases. I constantly aim to improve and expand my technical and social skills through various educational and personal projects.
 
-👀 Je suis particulièrement intéressé par le développement d'application et le web. Ce qui me passione, c'est de découvrir les nouvelles technologies et d'explorer le champ des possibles dans les outils de programmation, que cela soit au niveau du développement web, de la POO, des UI/UX ou bien des bases de données. 
-Je vise constamment à m'améliorer et à enrichir mon bagage technique et social à travers divers projets pédagogiques et personnels.
+⚡**Interests:** CS, space, badminton, volleyball, technological advancements, and the video game industry 💻🪐🌸🏸🏐
+</p>
 
-⚡**Centres d'intérêts :** le badminton, le volley, les progrès technologiques et l'industrie du jeu vidéo
+<!-- TECHSTACK -->
+<br clear="both">
+<h2 align="center">💻 Techstack</h2>
 
-[//]: <📚 Lien vers [Portfolio](https://drive.google.com/file/d/1GpdIj7cbl76dj89CXiboE32VJEvpYn-v/view)>
+<h4 align="center">Web</h4>
+<div align="center">
+    <img src="./assets/img/logos/html5.svg" height="40" alt="html5 logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/css3.svg" height="40" alt="css logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/javascript.svg" height="40" alt="javascript logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/typescript.svg" height="40" alt="typescript logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/php.svg" height="40" alt="php logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/react.svg" height="40" alt="react logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/vuejs.svg" height="40" alt="vuejs logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/symfony.svg" height="40" alt="symfony logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/tailwind.svg" height="40" alt="tailwindcss logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/nodejs.svg" height="40" alt="nodejs logo"/>
+    <img width="12" />
+    <img src=./assets/img/logos/threejs.svg height="40" alt="threejs logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/fastapi.svg" height="40" alt="fastapi logo"/>
+</div>
 
->📚 Lien vers [Portfolio](https://webinfo.iutmontp.univ-montp2.fr/~renaudj/JRportfolio/web/router.php?action=afficherHero&controleur=base)   
->Site Web Vitrine Responsive (Projet A1 - SAE Controverse) : [Wishipedia](https://webinfo.iutmontp.univ-montp2.fr/~renaudj/SiteWebControverseSombre/)  
->Site Web Vitrine (Projet A1 - SAE Escape Game) : [The Killer's Run](https://webinfo.iutmontp.univ-montp2.fr/~renaudj/SiteWebEscapeGame/Page/TheKillersRun.html) 
+<h4 align="center">Database</h4>
+<div align="center">
+    <img src="./assets/img/logos/postgresql.svg" height="40" alt="postgresql logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/oracle.svg" height="40" alt="oracle logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/mysql.svg" height="40" alt="mysql logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/sqlite.svg" height="40" alt="sqlite logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/mongodb.svg" height="40" alt="mongodb logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/cassandra.svg" height="40" alt="apachecassandra logo"/>
+</div>
 
+<h4 align="center">General Development</h4>
+<div align="center">
+    <img src="./assets/img/logos/python.svg" height="40" alt="python logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/java.svg" height="40" alt="java logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/csharp.svg" height="40" alt="csharp logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/scala.svg" height="40" alt="scala logo"/>
+</div>
 
-## 🛠️ Mon bagage technique actuel 
+<h4 align="center">Engines</h4>
+<div align="center">
+  <img src="./assets/img/logos/godot.svg" height="40" alt="godot logo"/>
+</div>
 
-**Développement logiciels de bureau et POO**
+<h4 align="center">Build & Deployment</h4>
+<div align="center">
+    <img src="./assets/img/logos/docker.svg" height="40" alt="docker logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/apache.svg" height="40" alt="apache logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/maven.svg" height="40" alt="apachemaven logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/nginx.svg" height="40" alt="nginx logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/gradle.svg" height="40" alt="gradle logo"/>
+</div>
 
-|||   
-|--------|-----------------|
-| JAVA   | ⭐⭐⭐⭐      |
-| Python | ⭐⭐           |      
+<h4 align="center">IDE</h4>
+<div align="center">
+    <img src="./assets/img/logos/vscode.svg" height="40" alt="vscode logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/datagrip.svg" height="40" alt="datagrip logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/intellij.svg" height="40" alt="intellij logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/phpstorm.svg" height="40" alt="phpstorm logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/pycharm.svg" height="40" alt="pycharm logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/webstorm.svg" height="40" alt="webstorm logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/androidstudio.svg" height="40" alt="androidstudio logo"/>
+</div>
 
+<h4 align="center">Collaboration & Tools</h4>
+<div align="center">
+    <img src="./assets/img/logos/github.svg" height="40" alt="gitlab logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/gitlab.svg" height="40" alt="github logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/git.svg" height="40" alt="git logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/filezilla.svg" height="40" alt="filezilla logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/trello.svg" height="40" alt="trello logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/figma.svg" height="40" alt="figma logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/latex.svg" height="40" alt="latex logo"/>
+    <img width="12" />
+    <img src="./assets/img/logos/markdown.svg" height="40" alt="markdown logo"/>
+    <img src="./assets/img/logos/n8n.png" height="40" alt="n8n logo"/>
+</div>
 
-**IHM pour des applications de bureau**
+<!-- STATS -->
+<br clear="both">
+<h2 align="center">📊 Stats</h2>
 
-|||   
-|---------|-----------------|
-| JavaFX  | ⭐⭐           |
-| Tkinter | ⭐⭐           |  
+<div align="center">
+    <img height="150" src="./assets/gif/gojohuh.gif"/>
+    <img src="https://github-readme-stats-gamma-blush-69.vercel.app/api?username=bollsudo&show_icons=true&theme=shadow_blue&custom_title=GitHub Stats&hide=contribs,stars&show=prs_merged&hide_rank=true" alt="Boll's Github Stats">
 
+</div>
+<div align="center">
+    <img src="https://github-readme-stats-gamma-blush-69.vercel.app/api/top-langs?username=bollsudo&layout=compact&langs_count=8&theme=shadow_blue" alt="Boll's Top Languages">
+    <img height="150" src="./assets/gif/gojohmpf.gif"/>
+</div>
 
-**Développement Web**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-|||   
-|---------|-----------------|
-| PHP   | ⭐⭐⭐⭐        |
-| HTML  | ⭐⭐⭐⭐        |  
-| CSS   | ⭐⭐⭐⭐        |  
-| JS    | ⭐               |  
-
-
-**Programamation bas niveau**
-
-|||   
-|---------|-----------------|
-| C       | ⭐⭐           |
-
-
-**Conception de bases de données relationnelles (SQL) - SGBD** 
-
-|||   
-|---------|-----------------|
-| Oracle  | ⭐⭐⭐⭐      |
-| MariaDB | ⭐⭐⭐        |  
-| mySQL   | ⭐⭐           |  
- 
-
-**Outils de versionning** : Git, GitLab, GitHub  
-**IDE** : JetBrains, VsCode  
-**Outils de conception** : StarUML, PlantUML, Looping (modèle E/A)   
-**Méthodes de travail** : TDD, AGILE  
-**Principes de programmation** : SOLID, YAGNI, DRY, KISS
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Boll.Boll"/>
+</div>
