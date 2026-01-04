@@ -25,14 +25,18 @@
     <td><img src="./assets/img/logos/css3.svg" width="40" /></td>
     <td><img src="./assets/img/logos/javascript.svg" width="40" /></td>
     <td><img src="./assets/img/logos/typescript.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/php.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/react.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/vuejs.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/symfony.svg" width="40" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/img/logos/tailwind.svg" width="40" /></td>
     <td><img src="./assets/img/logos/nodejs.svg" width="40" /></td>
     <td><img src="./assets/img/logos/threejs.svg" width="40" /></td>
     <td><img src="./assets/img/logos/fastapi.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/img/logos/php.svg" width="40" /></td>
+    <td><img src="./assets/img/logos/react.svg" width="40" /></td>
+    <td><img src="./assets/img/logos/vuejs.svg" width="40" /></td>
+    <td><img src="./assets/img/logos/symfony.svg" width="40" /></td>
   </tr>
 </table>
 
@@ -43,6 +47,8 @@
     <td><img src="./assets/img/logos/oracle.svg" width="40" /></td>
     <td><img src="./assets/img/logos/mysql.svg" width="40" /></td>
     <td><img src="./assets/img/logos/sqlite.svg" width="40" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/img/logos/mongodb.svg" width="40" /></td>
     <td><img src="./assets/img/logos/cassandra.svg" width="40" /></td>
   </tr>
@@ -70,7 +76,6 @@
   <tr>
     <td><img src="./assets/img/logos/docker.svg" width="40" /></td>
     <td><img src="./assets/img/logos/apache.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/maven.svg" width="40" /></td>
     <td><img src="./assets/img/logos/nginx.svg" width="40" /></td>
     <td><img src="./assets/img/logos/gradle.svg" width="40" /></td>
   </tr>
@@ -83,6 +88,8 @@
     <td><img src="./assets/img/logos/datagrip.svg" width="40" /></td>
     <td><img src="./assets/img/logos/intellij.svg" width="40" /></td>
     <td><img src="./assets/img/logos/phpstorm.svg" width="40" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/img/logos/pycharm.svg" width="40" /></td>
     <td><img src="./assets/img/logos/webstorm.svg" width="40" /></td>
     <td><img src="./assets/img/logos/androidstudio.svg" width="40" /></td>
@@ -95,8 +102,9 @@
     <td><img src="./assets/img/logos/github.svg" width="40" /></td>
     <td><img src="./assets/img/logos/gitlab.svg" width="40" /></td>
     <td><img src="./assets/img/logos/git.svg" width="40" /></td>
-    <td><img src="./assets/img/logos/filezilla.svg" width="40" /></td>
     <td><img src="./assets/img/logos/trello.svg" width="40" /></td>
+  </tr>
+  <tr>
     <td><img src="./assets/img/logos/figma.svg" width="40" /></td>
     <td><img src="./assets/img/logos/latex.svg" width="40" /></td>
     <td><img src="./assets/img/logos/markdown.svg" width="40" /></td>
