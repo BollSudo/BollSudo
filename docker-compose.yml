@@ -1,0 +1,9 @@
+
+services:
+  wakatime:
+    build: .
+    container_name: wakatime-fetcher
+    environment:
+      WAKATIME_API_KEY: ${WAKATIME_API_KEY}
+    volumes:
+      - ./data:/app/data

@@ -1,0 +1,33 @@
+name: Update WakaTime Language Stats Data
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # Runs every first day of the month at 6AM
+  workflow_dispatch:      # manual trigger
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch WakaTime lang stats
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          node scripts/fetch-wakatime.js
+
+      - name: Commit & push updated lang stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/wakatime/*.json
+          git commit -m "Update WakaTime lang stats" || exit 0
+          git push
