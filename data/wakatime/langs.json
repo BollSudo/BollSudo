@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-01-11T17:50:08.191Z",
+  "range": "last_year",
+  "languages": [
+    {
+      "name": "PHP",
+      "total_seconds": 50792,
+      "percent": 34.3
+    },
+    {
+      "name": "JavaScript",
+      "total_seconds": 41533,
+      "percent": 28
+    },
+    {
+      "name": "C#",
+      "total_seconds": 26382,
+      "percent": 17.8
+    },
+    {
+      "name": "Markdown",
+      "total_seconds": 11447,
+      "percent": 7.7
+    },
+    {
+      "name": "YAML",
+      "total_seconds": 6866,
+      "percent": 4.6
+    },
+    {
+      "name": "Scala",
+      "total_seconds": 4830,
+      "percent": 3.3
+    },
+    {
+      "name": "Other",
+      "total_seconds": 2613,
+      "percent": 1.8
+    },
+    {
+      "name": "Bash",
+      "total_seconds": 1347,
+      "percent": 0.9
+    },
+    {
+      "name": "JSON",
+      "total_seconds": 1019,
+      "percent": 0.7
+    },
+    {
+      "name": "Docker",
+      "total_seconds": 409,
+      "percent": 0.3
+    },
+    {
+      "name": ".env file",
+      "total_seconds": 370,
+      "percent": 0.3
+    },
+    {
+      "name": "Log",
+      "total_seconds": 226,
+      "percent": 0.2
+    },
+    {
+      "name": "Python",
+      "total_seconds": 159,
+      "percent": 0.1
+    },
+    {
+      "name": "Text",
+      "total_seconds": 67,
+      "percent": 0.1
+    },
+    {
+      "name": "Image (svg)",
+      "total_seconds": 65,
+      "percent": 0
+    },
+    {
+      "name": "HTML",
+      "total_seconds": 43,
+      "percent": 0
+    },
+    {
+      "name": "GitIgnore file",
+      "total_seconds": 43,
+      "percent": 0
+    },
+    {
+      "name": "Git",
+      "total_seconds": 20,
+      "percent": 0
+    },
+    {
+      "name": "Godot Resource",
+      "total_seconds": 5,
+      "percent": 0
+    }
+  ]
+}
