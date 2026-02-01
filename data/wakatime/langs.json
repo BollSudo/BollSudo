@@ -1,66 +1,101 @@
 {
-  "generated_at": "2026-01-11T17:50:08.191Z",
+  "generated_at": "2026-02-01T06:57:47.366Z",
   "range": "last_year",
   "languages": [
     {
-      "name": "PHP",
-      "total_seconds": 50792,
-      "percent": 34.3
+      "name": "JavaScript",
+      "total_seconds": 153318,
+      "percent": 45.6
     },
     {
-      "name": "JavaScript",
-      "total_seconds": 41533,
-      "percent": 28
+      "name": "PHP",
+      "total_seconds": 77535,
+      "percent": 23
     },
     {
       "name": "C#",
-      "total_seconds": 26382,
-      "percent": 17.8
+      "total_seconds": 27314,
+      "percent": 8.1
     },
     {
       "name": "Markdown",
-      "total_seconds": 11447,
-      "percent": 7.7
-    },
-    {
-      "name": "YAML",
-      "total_seconds": 6866,
-      "percent": 4.6
+      "total_seconds": 20128,
+      "percent": 6
     },
     {
       "name": "Scala",
-      "total_seconds": 4830,
-      "percent": 3.3
+      "total_seconds": 16029,
+      "percent": 4.8
     },
     {
-      "name": "Other",
-      "total_seconds": 2613,
-      "percent": 1.8
-    },
-    {
-      "name": "Bash",
-      "total_seconds": 1347,
-      "percent": 0.9
+      "name": "YAML",
+      "total_seconds": 10429,
+      "percent": 3.1
     },
     {
       "name": "JSON",
-      "total_seconds": 1019,
-      "percent": 0.7
+      "total_seconds": 7659,
+      "percent": 2.3
     },
     {
-      "name": "Docker",
-      "total_seconds": 409,
-      "percent": 0.3
+      "name": "Vue.js",
+      "total_seconds": 5701,
+      "percent": 1.7
+    },
+    {
+      "name": "Twig",
+      "total_seconds": 3858,
+      "percent": 1.2
+    },
+    {
+      "name": "CSS",
+      "total_seconds": 3568,
+      "percent": 1.1
+    },
+    {
+      "name": "Other",
+      "total_seconds": 3395,
+      "percent": 1
+    },
+    {
+      "name": "Bash",
+      "total_seconds": 2838,
+      "percent": 0.8
     },
     {
       "name": ".env file",
-      "total_seconds": 370,
+      "total_seconds": 1727,
+      "percent": 0.5
+    },
+    {
+      "name": "HTML",
+      "total_seconds": 1033,
       "percent": 0.3
+    },
+    {
+      "name": "Docker",
+      "total_seconds": 552,
+      "percent": 0.2
+    },
+    {
+      "name": "Makefile",
+      "total_seconds": 320,
+      "percent": 0.1
+    },
+    {
+      "name": "TypeScript",
+      "total_seconds": 275,
+      "percent": 0.1
     },
     {
       "name": "Log",
       "total_seconds": 226,
-      "percent": 0.2
+      "percent": 0.1
+    },
+    {
+      "name": "GitIgnore file",
+      "total_seconds": 196,
+      "percent": 0.1
     },
     {
       "name": "Python",
@@ -68,23 +103,23 @@
       "percent": 0.1
     },
     {
+      "name": "Image (svg)",
+      "total_seconds": 86,
+      "percent": 0
+    },
+    {
       "name": "Text",
       "total_seconds": 67,
-      "percent": 0.1
-    },
-    {
-      "name": "Image (svg)",
-      "total_seconds": 65,
       "percent": 0
     },
     {
-      "name": "HTML",
+      "name": "Apache Config",
       "total_seconds": 43,
       "percent": 0
     },
     {
-      "name": "GitIgnore file",
-      "total_seconds": 43,
+      "name": "Shell Script",
+      "total_seconds": 33,
       "percent": 0
     },
     {
