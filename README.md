@@ -132,18 +132,18 @@
 <!--START_SECTION:waka-->
 
 ```yaml
-From: 31 January 2025 - To: 31 January 2026
+From: 07 February 2025 - To: 07 February 2026
 
-Total Time: 93 hrs 28 mins
+Total Time: 107 hrs 12 mins
 
-JavaScript       42 hrs 35 mins  ▇▇▇▇▇▇▇▇▇▇▇▅▂▂▂▂▂▂▂▂▂▂▂▂▂   45.56 %
-PHP              21 hrs 32 mins  ▇▇▇▇▇▆▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   23.04 %
-C#               7 hrs 35 mins   ▇▇▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   08.12 %
-Markdown         5 hrs 35 mins   ▇▅▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   05.98 %
-Scala            4 hrs 27 mins   ▇▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   04.76 %
-YAML             2 hrs 53 mins   ▆▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   03.10 %
-JSON             2 hrs 7 mins    ▅▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   02.28 %
-Vue.js           1 hr 35 mins    ▅▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   01.69 %
+JavaScript       42 hrs 43 mins  ▇▇▇▇▇▇▇▇▇▇▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   39.85 %
+PHP              21 hrs 32 mins  ▇▇▇▇▇▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   20.09 %
+Scala            9 hrs 23 mins   ▇▇▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   08.76 %
+C#               7 hrs 35 mins   ▇▆▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   07.08 %
+Java             5 hrs 51 mins   ▇▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   05.47 %
+Markdown         5 hrs 35 mins   ▇▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   05.22 %
+YAML             4 hrs 14 mins   ▇▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   03.95 %
+JSON             2 hrs 7 mins    ▅▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   01.98 %
 ```
 
 <!--END_SECTION:waka-->
