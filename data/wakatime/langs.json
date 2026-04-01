@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-03-01T06:54:36.951Z",
+  "generated_at": "2026-04-01T07:42:32.217Z",
   "range": "last_year",
   "languages": [
     {
       "name": "JavaScript",
-      "total_seconds": 153969,
-      "percent": 38.5
+      "total_seconds": 208289,
+      "percent": 43
     },
     {
       "name": "PHP",
-      "total_seconds": 77535,
-      "percent": 19.4
+      "total_seconds": 81677,
+      "percent": 16.9
     },
     {
       "name": "Scala",
-      "total_seconds": 38032,
-      "percent": 9.5
+      "total_seconds": 50678,
+      "percent": 10.5
     },
     {
       "name": "Java",
       "total_seconds": 28974,
-      "percent": 7.2
+      "percent": 6
     },
     {
       "name": "C#",
       "total_seconds": 27314,
-      "percent": 6.8
+      "percent": 5.6
     },
     {
       "name": "Markdown",
-      "total_seconds": 20779,
-      "percent": 5.2
+      "total_seconds": 21006,
+      "percent": 4.3
     },
     {
       "name": "YAML",
-      "total_seconds": 15265,
-      "percent": 3.8
+      "total_seconds": 16992,
+      "percent": 3.5
+    },
+    {
+      "name": "Twig",
+      "total_seconds": 12768,
+      "percent": 2.6
     },
     {
       "name": "JSON",
-      "total_seconds": 7659,
-      "percent": 1.9
+      "total_seconds": 8172,
+      "percent": 1.7
     },
     {
       "name": "Vue.js",
       "total_seconds": 5701,
-      "percent": 1.4
-    },
-    {
-      "name": "Bash",
-      "total_seconds": 4828,
       "percent": 1.2
     },
     {
-      "name": "Twig",
-      "total_seconds": 3858,
+      "name": "Bash",
+      "total_seconds": 4836,
       "percent": 1
     },
     {
       "name": "CSS",
-      "total_seconds": 3568,
-      "percent": 0.9
+      "total_seconds": 3871,
+      "percent": 0.8
     },
     {
       "name": "Other",
-      "total_seconds": 3395,
-      "percent": 0.9
+      "total_seconds": 3406,
+      "percent": 0.7
     },
     {
       "name": ".env file",
-      "total_seconds": 1727,
-      "percent": 0.4
+      "total_seconds": 2526,
+      "percent": 0.5
     },
     {
       "name": "SQL",
       "total_seconds": 1426,
-      "percent": 0.4
+      "percent": 0.3
     },
     {
       "name": "Shell Script",
-      "total_seconds": 1100,
-      "percent": 0.3
+      "total_seconds": 1108,
+      "percent": 0.2
     },
     {
       "name": "Docker",
       "total_seconds": 1093,
-      "percent": 0.3
+      "percent": 0.2
     },
     {
       "name": "HTML",
       "total_seconds": 1033,
-      "percent": 0.3
+      "percent": 0.2
     },
     {
       "name": "textmate",
@@ -103,28 +103,28 @@
       "percent": 0.1
     },
     {
+      "name": "Text",
+      "total_seconds": 345,
+      "percent": 0.1
+    },
+    {
       "name": "Makefile",
       "total_seconds": 320,
       "percent": 0.1
     },
     {
-      "name": "Text",
-      "total_seconds": 306,
+      "name": "GitIgnore file",
+      "total_seconds": 303,
+      "percent": 0.1
+    },
+    {
+      "name": "TypeScript",
+      "total_seconds": 297,
       "percent": 0.1
     },
     {
       "name": "XML",
       "total_seconds": 288,
-      "percent": 0.1
-    },
-    {
-      "name": "GitIgnore file",
-      "total_seconds": 287,
-      "percent": 0.1
-    },
-    {
-      "name": "TypeScript",
-      "total_seconds": 275,
       "percent": 0.1
     },
     {
@@ -155,6 +155,11 @@
     {
       "name": "Git",
       "total_seconds": 20,
+      "percent": 0
+    },
+    {
+      "name": "sbt",
+      "total_seconds": 7,
       "percent": 0
     },
     {
