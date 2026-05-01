@@ -1,76 +1,81 @@
 {
-  "generated_at": "2026-04-01T07:42:32.217Z",
+  "generated_at": "2026-05-01T08:20:00.544Z",
   "range": "last_year",
   "languages": [
     {
       "name": "JavaScript",
-      "total_seconds": 208289,
-      "percent": 43
+      "total_seconds": 236024,
+      "percent": 42.2
     },
     {
       "name": "PHP",
-      "total_seconds": 81677,
-      "percent": 16.9
+      "total_seconds": 90701,
+      "percent": 16.2
     },
     {
       "name": "Scala",
-      "total_seconds": 50678,
-      "percent": 10.5
+      "total_seconds": 68197,
+      "percent": 12.2
     },
     {
       "name": "Java",
-      "total_seconds": 28974,
-      "percent": 6
+      "total_seconds": 34026,
+      "percent": 6.1
     },
     {
       "name": "C#",
       "total_seconds": 27314,
-      "percent": 5.6
+      "percent": 4.9
     },
     {
       "name": "Markdown",
-      "total_seconds": 21006,
-      "percent": 4.3
+      "total_seconds": 25810,
+      "percent": 4.6
     },
     {
       "name": "YAML",
-      "total_seconds": 16992,
-      "percent": 3.5
+      "total_seconds": 20971,
+      "percent": 3.8
     },
     {
       "name": "Twig",
-      "total_seconds": 12768,
-      "percent": 2.6
+      "total_seconds": 15576,
+      "percent": 2.8
     },
     {
       "name": "JSON",
-      "total_seconds": 8172,
-      "percent": 1.7
+      "total_seconds": 8917,
+      "percent": 1.6
     },
     {
       "name": "Vue.js",
       "total_seconds": 5701,
-      "percent": 1.2
+      "percent": 1
     },
     {
       "name": "Bash",
-      "total_seconds": 4836,
+      "total_seconds": 5433,
       "percent": 1
     },
     {
       "name": "CSS",
-      "total_seconds": 3871,
-      "percent": 0.8
+      "total_seconds": 4112,
+      "percent": 0.7
     },
     {
       "name": "Other",
-      "total_seconds": 3406,
+      "total_seconds": 3982,
       "percent": 0.7
     },
     {
       "name": ".env file",
-      "total_seconds": 2526,
+      "total_seconds": 3022,
       "percent": 0.5
+    },
+    {
+      "name": "HTML",
+      "total_seconds": 1550,
+      "percent": 0.3
     },
     {
       "name": "SQL",
@@ -78,19 +83,34 @@
       "percent": 0.3
     },
     {
+      "name": "Docker",
+      "total_seconds": 1120,
+      "percent": 0.2
+    },
+    {
       "name": "Shell Script",
       "total_seconds": 1108,
       "percent": 0.2
     },
     {
-      "name": "Docker",
-      "total_seconds": 1093,
+      "name": "Makefile",
+      "total_seconds": 852,
       "percent": 0.2
     },
     {
-      "name": "HTML",
-      "total_seconds": 1033,
-      "percent": 0.2
+      "name": "GitIgnore file",
+      "total_seconds": 531,
+      "percent": 0.1
+    },
+    {
+      "name": "sbt",
+      "total_seconds": 530,
+      "percent": 0.1
+    },
+    {
+      "name": "XML",
+      "total_seconds": 476,
+      "percent": 0.1
     },
     {
       "name": "textmate",
@@ -108,38 +128,28 @@
       "percent": 0.1
     },
     {
-      "name": "Makefile",
-      "total_seconds": 320,
-      "percent": 0.1
-    },
-    {
-      "name": "GitIgnore file",
-      "total_seconds": 303,
-      "percent": 0.1
-    },
-    {
       "name": "TypeScript",
-      "total_seconds": 297,
-      "percent": 0.1
-    },
-    {
-      "name": "XML",
-      "total_seconds": 288,
+      "total_seconds": 302,
       "percent": 0.1
     },
     {
       "name": "CassandraQL",
       "total_seconds": 249,
-      "percent": 0.1
+      "percent": 0
     },
     {
       "name": "Log",
       "total_seconds": 226,
-      "percent": 0.1
+      "percent": 0
     },
     {
       "name": "Python",
       "total_seconds": 159,
+      "percent": 0
+    },
+    {
+      "name": "Mermaid",
+      "total_seconds": 131,
       "percent": 0
     },
     {
@@ -149,7 +159,12 @@
     },
     {
       "name": "Apache Config",
-      "total_seconds": 43,
+      "total_seconds": 51,
+      "percent": 0
+    },
+    {
+      "name": "SCSS",
+      "total_seconds": 42,
       "percent": 0
     },
     {
@@ -158,8 +173,13 @@
       "percent": 0
     },
     {
-      "name": "sbt",
-      "total_seconds": 7,
+      "name": "Git Config",
+      "total_seconds": 9,
+      "percent": 0
+    },
+    {
+      "name": "INI",
+      "total_seconds": 8,
       "percent": 0
     },
     {
