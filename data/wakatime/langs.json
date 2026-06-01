@@ -1,51 +1,56 @@
 {
-  "generated_at": "2026-05-01T08:20:00.544Z",
+  "generated_at": "2026-06-01T11:46:19.598Z",
   "range": "last_year",
   "languages": [
     {
       "name": "JavaScript",
-      "total_seconds": 236024,
-      "percent": 42.2
+      "total_seconds": 241541,
+      "percent": 41.2
     },
     {
       "name": "PHP",
-      "total_seconds": 90701,
-      "percent": 16.2
+      "total_seconds": 91558,
+      "percent": 15.6
     },
     {
       "name": "Scala",
-      "total_seconds": 68197,
-      "percent": 12.2
+      "total_seconds": 68772,
+      "percent": 11.7
     },
     {
       "name": "Java",
-      "total_seconds": 34026,
-      "percent": 6.1
+      "total_seconds": 34050,
+      "percent": 5.8
     },
     {
       "name": "C#",
-      "total_seconds": 27314,
-      "percent": 4.9
+      "total_seconds": 27412,
+      "percent": 4.7
     },
     {
       "name": "Markdown",
-      "total_seconds": 25810,
-      "percent": 4.6
+      "total_seconds": 25873,
+      "percent": 4.4
+    },
+    {
+      "name": "JSON",
+      "total_seconds": 24824,
+      "percent": 4.2
     },
     {
       "name": "YAML",
-      "total_seconds": 20971,
-      "percent": 3.8
+      "total_seconds": 20976,
+      "percent": 3.6
     },
     {
       "name": "Twig",
       "total_seconds": 15576,
-      "percent": 2.8
+      "percent": 2.7
     },
     {
-      "name": "JSON",
-      "total_seconds": 8917,
-      "percent": 1.6
+      "name": "CSS",
+      "total_seconds": 5971,
+      "percent": 1
     },
     {
       "name": "Vue.js",
@@ -54,23 +59,23 @@
     },
     {
       "name": "Bash",
-      "total_seconds": 5433,
-      "percent": 1
-    },
-    {
-      "name": "CSS",
-      "total_seconds": 4112,
-      "percent": 0.7
+      "total_seconds": 5446,
+      "percent": 0.9
     },
     {
       "name": "Other",
-      "total_seconds": 3982,
+      "total_seconds": 4282,
       "percent": 0.7
     },
     {
       "name": ".env file",
       "total_seconds": 3022,
       "percent": 0.5
+    },
+    {
+      "name": "Text",
+      "total_seconds": 1652,
+      "percent": 0.3
     },
     {
       "name": "HTML",
@@ -80,7 +85,7 @@
     {
       "name": "SQL",
       "total_seconds": 1426,
-      "percent": 0.3
+      "percent": 0.2
     },
     {
       "name": "Docker",
@@ -99,7 +104,7 @@
     },
     {
       "name": "GitIgnore file",
-      "total_seconds": 531,
+      "total_seconds": 622,
       "percent": 0.1
     },
     {
@@ -109,7 +114,7 @@
     },
     {
       "name": "XML",
-      "total_seconds": 476,
+      "total_seconds": 516,
       "percent": 0.1
     },
     {
@@ -120,11 +125,6 @@
     {
       "name": "Cassandra CQL",
       "total_seconds": 371,
-      "percent": 0.1
-    },
-    {
-      "name": "Text",
-      "total_seconds": 345,
       "percent": 0.1
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "name": "SCSS",
-      "total_seconds": 42,
+      "total_seconds": 49,
       "percent": 0
     },
     {
