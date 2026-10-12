@@ -132,7 +132,7 @@
 <!--START_SECTION:waka-->
 
 ```yaml
-From: 04 October 2025 - To: 04 October 2026
+From: 11 October 2025 - To: 11 October 2026
 
 Total Time: 169 hrs 20 mins
 
